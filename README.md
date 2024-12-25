@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Manikanta2804(Manikanta Sangani)
-- 👀 I'm intreseted a lot eg(exapligracia):web development,DSA,Operating Systemand etc.,
+- 👀 I'm intreseted a lot eg(exapligracia):web development,DSA,Operating Systems and etc.,
 - 🌱 I’m currently learning B-Tech(CSE)
