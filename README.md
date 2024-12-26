@@ -1,3 +1,7 @@
 - 👋 Hi, I’m @Manikanta2804(Manikanta Sangani)
-- 👀 I'm intreseted a lot eg(exapligracia):web development,DSA,Operating Systems and etc.,
-- 🌱 I’m currently learning B-Tech(CSE)
+- 👀 Here you can see all projects
+- Portfolio and Form (using html,css and js)
+- Scientific calculator (including sin functions)
+- Treasurhunt (using html,css and js)
+- Car_game and Snake_game (using python in turtle)
+- 
